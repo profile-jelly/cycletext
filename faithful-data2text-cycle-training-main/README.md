@@ -1,3 +1,11 @@
+##
+代码作用
+eval  测试，评价与绘图
+lora 模型lora微调
+cycle_training.py 循环模型训练
+dataprocessing.py 数据集处理与分割
+train_full.py 模型预训练与全标注模型训练
+
 ## Faithful Low-Resource Data-to-Text Generation Through Cycle Training
 
 This repository contains the source code for the ACL 2023 paper: [Faithful Low-Resource Data-to-Text Generation through Cycle Training](https://aclanthology.org/2023.acl-long.160.pdf)
