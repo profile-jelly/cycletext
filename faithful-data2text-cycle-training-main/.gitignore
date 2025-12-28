@@ -1,0 +1,37 @@
+# =========================
+# Python cache
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+
+# =========================
+# IDE / Editor
+# =========================
+.idea/
+.vscode/
+
+# =========================
+# LoRA fine-tuning outputs (DO NOT COMMIT)
+# =========================
+lora_aware_data2text_decoder/
+lora_aware_text2data_decoder/
+lora_data2text_decoder/
+lora_data2text_full/
+lora_decoder_only/
+lora_text2data_decoder/
+lora_text2data_full/
+
+# =========================
+# Logs / checkpoints (if any)
+# =========================
+*.log
+*.ckpt
+*.pt
+*.pth
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
