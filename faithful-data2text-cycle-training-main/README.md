@@ -1,10 +1,10 @@
 ##
 代码作用
-eval  测试，评价与绘图
-lora 模型lora微调
-cycle_training.py 循环模型训练
-dataprocessing.py 数据集处理与分割
-train_full.py 模型预训练与全标注模型训练
+eval  测试，评价与绘图/n
+lora 模型lora微调/n
+cycle_training.py 循环模型训练/n
+dataprocessing.py 数据集处理与分割/n
+train_full.py 模型预训练与全标注模型训练/n
 
 ## Faithful Low-Resource Data-to-Text Generation Through Cycle Training
 
